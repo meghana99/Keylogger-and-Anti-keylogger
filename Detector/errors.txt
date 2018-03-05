@@ -1,0 +1,6 @@
+=============================================================================================================================
+The following error occured while scanning the file D:\CSCI642\Project\.metadata\.lock The stack trace is shown below
+=============================================================================================================================
+The following error occured while scanning the file D:\CSCI642\Project\.metadata\.lock The stack trace is shown below
+=============================================================================================================================
+The following error occured while scanning the file D:\CSCI642\Project\phase3 the error is shown below
